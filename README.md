@@ -17,7 +17,7 @@ Olá, seja bem vindo ao meu pequeno projeto de tela de login e cadastro. Este fo
 
 # :open_file_folder: Como abrir e rodar o projeto?
 
-É facil, basta clicar no neste [link]() e você será direcionado para o site, onde poderá testar as funcionalidades do projeto.
+É facil, basta clicar no neste [link](https://bezi-anacarolinams-projects.vercel.app/) e você será direcionado para o site, onde poderá testar as funcionalidades do projeto.
 
 # 💻 Feito por:
 
